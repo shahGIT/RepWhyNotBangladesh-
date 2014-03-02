@@ -30,8 +30,10 @@ public class SvletWNB extends HttpServlet {
 	
 	
 			PrintWriter out = response.getWriter;
-	out.println("unleast.........."); 		
+	out.println("Checking repository whyNotBnagaldesh"); 		
 			
+	
+	
 	
 	}
 
